@@ -48,6 +48,20 @@ Contains chat message activity:
 - JOINs between datasets
 - DISTINCT counts
 
+## Power BI Dashboard
+
+This project includes an interactive Power BI dashboard built on the same Twitch datasets
+used in the SQL analysis.
+
+### Files
+- [`twitch_dashboard.pbix`](powerbi/twitch_dashboard.pbix) – Interactive Power BI report.
+- [Dashboard pdf summary](powerbi/pdf_summary/) – Preview images of the report pages.
+
+### Dashboard Overview
+- **Overview Page:** Twitch activity, top games, device usage, and geography.
+- **Engagement Analysis:** Chat activity and stream–chat relationships.
+- **Subscriber And Monetization Analysis:** Subscriber vs non-subscriber behavior.
+
 ## Insights
 - Top competitive games like *League of Legends* dominate overall stream volume, indicating strong and consistent viewer demand.
 - Focusing marketing campaigns and sponsorships on these high-volume games is likely to yield the greatest reach and engagement.
@@ -71,21 +85,9 @@ These countries should be prioritized for regional events, advertising campaigns
 - Only a portion of stream activity comes from subscribers, with non-subscribers accounting for a significant share of streams. This presents an opportunity to: convert active non-subscribers through targeted offers, and Promote subscriber-only benefits.
 This will help generate more subscription revenue.
 
-## Power BI Dashboard
-
-This project includes an interactive Power BI dashboard built on the same Twitch datasets
-used in the SQL analysis.
-
-### Files
-- [`twitch_dashboard.pbix`](powerbi/twitch_dashboard.pbix) – Interactive Power BI report.
-- [Dashboard pdf summary](powerbi/screenshots/) – Preview images of the report pages.
-
-### Dashboard Overview
-- **Overview Page:** Twitch activity, top games, device usage, and geography.
-- **Engagement Analysis:** Chat activity and stream–chat relationships.
-- **Subscriber Analysis:** Subscriber vs non-subscriber behavior.
-
 
 ## How to run the SQL file
-1. Load the CSV files into your SQL database.
-2. Run the queries in `Twitch.sql`.
+1. Download and open [`Twitch.sql`](sql/Twitch.sql).
+2. Load the CSV files into your SQL database.
+3. Run the queries.
+   
