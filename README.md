@@ -54,7 +54,7 @@ This project includes an interactive Power BI dashboard built on the same Twitch
 used in the SQL analysis.
 
 ### Files
-- [`twitch_dashboard.pbix`](powerbi/twitch_dashboard.pbix) – Interactive Power BI report.
+- [Twitch dashboard](powerbi/twitch_dashboard.pbix) – Interactive Power BI report.
 - [Dashboard pdf summary](powerbi/pdf_summary/) – Preview images of the report pages.
 
 ### Dashboard Overview
