@@ -37,7 +37,7 @@ Contains chat message activity:
 - What devices do viewers use most?
 - Which countries generate the most activity?
 - Countries where the most popular game is streamed the most?
-- Total amount of hours streamed in the United Kingdom, and how can we increase these hours?
+- What is the total amount of hours streamed in the United Kingdom, and how can we increase these hours?
 - How does chat engagement differ by game?
 - Is there a relationship between streams and chat activity?
 - How many of the streamers are subcribers?
@@ -72,7 +72,12 @@ used in the SQL analysis.
 - Viewers predominantly watch Twitch streams on desktop devices, followed by mobile platforms. Console-based viewing represents a smaller portion of total activity.
 
 - Top 5 countries that generate the most activity:
-USA, Taiwan, Germany, United Kingdom, Russia.
+1. USA.
+2. Taiwan.
+3. Germany.
+4. United Kingdom.
+5. Russia.
+
 These countries should be prioritized for regional events, advertising campaigns, and localized content strategies.
 
 
