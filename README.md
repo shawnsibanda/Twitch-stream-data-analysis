@@ -78,7 +78,7 @@ used in the SQL analysis.
 4. United Kingdom.
 5. Russia.
 
-These countries should be prioritized for regional events, advertising campaigns, and localized content strategies.
+**These countries should be prioritized for regional events, advertising campaigns, and localized content strategies.**
 
 
 - Recommendations to increase hours streamed: Promote UK-based streamers on the Twitch homepage, and support UK channels that focus on streaming ‘League of Legends’, to generate more traffic and thus increase the stream count in Great Britain.
