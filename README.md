@@ -4,7 +4,9 @@
 This project analyzes Twitch streaming and chat activity data to uncover insights into viewer behavior, popular games, and engagement patterns.
 
 ### Dashboard overview
-![Dashboard](powerbi/pdf_summary/twitch_dashboard.pdf)
+![Dashboard](powerbi/visuals/Overview.png)
+![Dashboard](powerbi/visuals/Engagement.png)
+![Dashboard](powerbi/visuals/Subscriber.png)
 
 ### Analysis Workflow
 1. Raw Twitch data loaded from CSV files.
@@ -58,7 +60,7 @@ used in the SQL analysis.
 
 ### Files
 - [Twitch dashboard](powerbi/twitch_dashboard.pbix) – Interactive Power BI report.
-- [Dashboard pdf summary](powerbi/pdf_summary/) – Preview images of the report pages.
+- [Dashboard visuals](powerbi/visuals/) – Preview images of the report pages.
 
 ### Dashboard Overview
 - **Overview Page:** Twitch activity, top games, device usage, and geography.
