@@ -68,13 +68,13 @@ used in the SQL analysis.
 - **Subscriber And Monetization Analysis:** Subscriber vs non-subscriber behavior.
 
 ## Insights
-- Top competitive games like *League of Legends* dominate overall stream volume, indicating strong and consistent viewer demand.
+- Top competitive games like *League of Legends* dominate overall stream volume (190K), indicating strong and consistent viewer demand.
 - Focusing marketing campaigns and sponsorships on these high-volume games is likely to yield the greatest reach and engagement.
   
-- The most streamed channels (Like Frank) are responsible for a large share of total streams, suggesting that Twitch activity is highly concentrated among top streamers.
+- The most streamed channels (Like Frank) are responsible for a large share of total streams(56K), suggesting that Twitch activity is highly concentrated among top streamers.
 - Partnering with these high-performing channels can significantly increase platform engagement.
   
-- Viewers predominantly watch Twitch streams on desktop devices, followed by mobile platforms. Console-based viewing represents a smaller portion of total activity.
+- Viewers predominantly watch Twitch streams on desktop devices (246K), followed by mobile platforms. Console-based viewing represents a smaller portion of total activity.
 
 - Top 5 countries that generate the most activity:
 1. USA.
@@ -88,7 +88,7 @@ used in the SQL analysis.
 
 - Recommendations to increase hours streamed: Promote UK-based streamers on the Twitch homepage, and support UK channels that focus on streaming ‘League of Legends’, to generate more traffic and thus increase the stream count in Great Britain.
 
-- Games with high viewership also show strong chat engagement.
+- Games with high viewership also show strong chat engagement (50K).
   
 - There is a positive relationship between the number of streams and chat activity, however, the relationship is not perfectly linear. Some games outperform others in chat engagement relative to their stream volume.
 
