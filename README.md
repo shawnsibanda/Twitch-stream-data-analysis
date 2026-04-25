@@ -74,7 +74,7 @@ used in the SQL analysis.
 - The most streamed channels (Like Frank) are responsible for a large share of total streams(56K), suggesting that Twitch activity is highly concentrated among top streamers.
 - Partnering with these high-performing channels can significantly increase platform engagement.
   
-- Viewers predominantly watch Twitch streams on desktop devices (246K), followed by mobile platforms. Console-based viewing represents a smaller portion of total activity.
+- Viewers predominantly watch Twitch streams on desktop devices (246K), followed by mobile platforms (192K). Console-based viewing represents a smaller portion of total activity.
 
 - Top 5 countries that generate the most activity:
 1. USA.
